@@ -22,4 +22,3 @@ Clone the repository.
 
 Execute the script via terminal:
 
-Bash
